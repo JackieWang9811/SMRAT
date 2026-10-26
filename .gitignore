@@ -1,0 +1,17 @@
+# Generated files and local data
+__pycache__/
+*.py[cod]
+.venv/
+.env
+.env.*
+*.npy
+*.npz
+*.pt
+*.pth
+*.ckpt
+*.log
+/data/
+/checkpoints/
+/logs/
+/runs/
+/wandb/
